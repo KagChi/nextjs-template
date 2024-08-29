@@ -51,5 +51,6 @@
       "@typescript-eslint/no-redundant-type-constituents": "off",
       "max-lines": "off"
     }
-  }
+  },
+  "packageManager": "pnpm@9.9.0"
 }
