@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@hazmi35/eslint-config": "^15.2.2",
-    "@typescript-eslint/eslint-plugin": "^8.36.0",
+    "@typescript-eslint/eslint-plugin": "^8.37.0",
     "next": "15.3.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
@@ -24,13 +24,13 @@
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "eslint": "^9.31.0",
-    "eslint-config-next": "15.3.5",
+    "eslint-config-next": "15.4.1",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-tailwindcss": "^3.18.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.36.0"
+    "typescript-eslint": "^8.37.0"
   },
   "packageManager": "pnpm@10.13.1"
 }
